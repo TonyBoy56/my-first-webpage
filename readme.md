@@ -28,7 +28,7 @@ _No support available for this appllication_
 
 ## Technologies Used
 
-_Markdown_
+_Markdown _
 
 ### License
 
